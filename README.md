@@ -1,4 +1,6 @@
-# ramen-form
+# Vue Ramen
+
+![](https://raw.githubusercontent.com/sdwh/Vue-Ramen/master/src/assets/Vue-Ramen.gif)
 
 ## Project setup
 ```
